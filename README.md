@@ -1,6 +1,6 @@
 # 👋 Hi, I'm xxtui-main
 
-- 💻 正在做：xxtui
+- 💻 正在做：[xxtui](https://www.xxtui.com)
 - 🌱 兴趣：前端 / 后端
 - 📫 联系方式：xxtui-support@beixiaokeji.com
 - 🧩 这个账号主要放：xxtui相关的项目及和xxtui相关的fork
